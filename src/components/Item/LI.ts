@@ -19,10 +19,6 @@ export const LI = styled.li`
     font-size: 0.75rem;
   }
 
-  .image { 
-    width: 200px;
-    height: 50px;
-  }
 
   .remove-item {
     width: 50px;
